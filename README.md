@@ -26,5 +26,6 @@ New to open source, he is looking to explore new avenues, learn new skills, coll
 
 ---
 
-### Connect With Me! <a href="https://www.linkedin.com/in/ashwajeetbhatia/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+### Connect With Me!
+<a href="https://www.linkedin.com/in/ashwajeetbhatia/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
