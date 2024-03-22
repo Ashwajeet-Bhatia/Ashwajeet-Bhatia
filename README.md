@@ -22,7 +22,6 @@ New to open source, he is looking to explore new avenues, learn new skills, coll
 <br>
 
 <br>
----
 
 
 ### 📊 Connect With Me!
