@@ -2,10 +2,10 @@
 
 **`Developer/Data Scientist/Consultant`**
 
-Ashwajeet is an undergraduate at Netaji Subhas University of Technology, a Tier 1 and one of the premier engineering institutions in India, majoring in Computer Science and Engineering with a specialization in Data Science. 
-He is a skilled developer and an ardent data scientist, possessing a varied skillset of programming languages and tools.
-His passion lies in problem-solving and making a positive impact in this world through his work.
-New to open source, he is looking to explore new avenues, learn new skills, collaborate more and leave his mark on the community
+Ashwajeet is an undergraduate at Netaji Subhas University of Technology, a Tier 1 and one of the premier engineering institutions in India, majoring in Computer Science and Engineering with a specialization in Data Science. <br>
+He is a skilled developer and an ardent data scientist, possessing a varied skillset of programming languages and tools.<br>
+His passion lies in problem-solving and making a positive impact in this world through his work.<br>
+New to open source, he is looking to explore new avenues, learn new skills, collaborate more and leave his mark on the community.<br>
 
 ---
 
